@@ -58,7 +58,7 @@ img {
     
 
 button {
-    background-color: fuchsia;
+    background-color: rgb(194, 29, 29);
     font-family: "Anton", sans-serif;
 }
 
@@ -68,9 +68,9 @@ input {
     width: 260px;
     height: 25px;
     position: relative;
-    background-color: rgb(207, 154, 207);
-    color: rgb(24, 5, 46);
-    border: 8px solid rgb(221, 19, 221);
+    background-color: rgb(170, 28, 170);
+    color: rgb(128, 86, 175);
+    border: 8px solid rgb(54, 13, 54);
 }
 
 label {
